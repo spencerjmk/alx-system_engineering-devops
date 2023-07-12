@@ -1,2 +1,2 @@
 #!/bin/bash
-echo NEW_DIR-"iacta"
+head -3 NEW_DIR-"iacta"
